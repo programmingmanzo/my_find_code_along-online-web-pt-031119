@@ -1,7 +1,10 @@
 require 'pry'
 
-
+#collection = []
 
 def my_find(collection)
-binding.pry 
+  i = 0 
+  while i < collection.length 
+    i += 1
+  end
 end
